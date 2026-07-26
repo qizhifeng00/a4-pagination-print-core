@@ -1,5 +1,8 @@
 # @a4-pagination-print/core
 
+[![npm version](https://img.shields.io/npm/v/@a4-pagination-print/core)](https://www.npmjs.com/package/@a4-pagination-print/core)
+[![license](https://img.shields.io/npm/l/@a4-pagination-print/core)](https://github.com/qizhifeng00/a4-pagination-print-core/blob/main/LICENSE)
+
 A4 分页核心引擎 — 纯 TypeScript，零 DOM 依赖，可在浏览器和 Node.js 中使用。
 
 ```bash

@@ -34,6 +34,14 @@
     "typescript"
   ],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qizhifeng00/a4-pagination-print-core"
+  },
+  "homepage": "https://github.com/qizhifeng00/a4-pagination-print-core#readme",
+  "bugs": {
+    "url": "https://github.com/qizhifeng00/a4-pagination-print-core/issues"
+  },
   "devDependencies": {
     "typescript": "^5.5.0",
     "vitest": "^2.0.0"
