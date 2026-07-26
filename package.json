@@ -1,6 +1,6 @@
 {
   "name": "@a4-pagination-print/core",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A4 pagination engine — pure TypeScript, zero DOM dependency",
   "type": "module",
   "main": "./dist/index.js",
